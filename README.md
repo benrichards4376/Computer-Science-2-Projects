@@ -1,5 +1,5 @@
 # Computer-Science-2-Projects
-This contains descriptions of projects I completed while taking Computer Science 2 at UCF. My instructor, Dr. Szumlanski has instructed to not share any code from his projects under threat of legal action. I have a private repository containing all the code, which I am allowed to share with potential employers, but cannot be made public for the aforementioned reason. All projects in CS2 are in Java.
+This contains descriptions of projects I completed while taking Computer Science 2 at UCF. My instructor, Dr. Szumlanski has instructed to not share any code from his projects. I have a private repository containing all the code, which I am allowed to share with potential employers, but cannot be made public for the aforementioned reason. All projects in CS2 are in Java.
 
 Pathogen: A backtracking algorithm that returns all the valid solutions to a maze, read from a file with the following legend:
 <br /> Maze Legend: <br /> (X) denotes an untouchable space. <br /> (Y) denotes a touchable space. <br />
